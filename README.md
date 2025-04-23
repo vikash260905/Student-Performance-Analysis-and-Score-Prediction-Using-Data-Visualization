@@ -66,7 +66,7 @@ matplotlib
 seaborn
 scikit-learn
 
-📍 Conclusion & Results
+## 📍 Conclusion & Results
 Students' performance varies significantly between subjects.
 
 Strong correlations observed between some subjects, which can be useful for predicting missing or future scores.
@@ -75,4 +75,3 @@ The Linear Regression model showed reasonable accuracy in predicting math scores
 
 Visualizations helped in identifying trends, top performers, and weak subjects across the dataset.
 
-🚀 How to Use
